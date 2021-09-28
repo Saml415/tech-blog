@@ -1,6 +1,6 @@
 # tech-blog
 
-![Capture](https://user-images.githubusercontent.com/81829274/135150703-2dba1aee-f5a4-481b-8313-dbb78dcf2864.PNG
+![Capture](https://user-images.githubusercontent.com/81829274/135150703-2dba1aee-f5a4-481b-8313-dbb78dcf2864.PNG)
 
 ## Table of Contents
 
