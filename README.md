@@ -14,7 +14,7 @@
 
 ## Description
 
-This is a repository for a full stack tech blog site. Using this app users can make an account that will be saved to the server side database and will be complete with cookies. Users who have an account can use the forums and post messages about tech relate content. Other users can then respond to their posts which can also be deleted.
+With this app, users who are interested in subject of technology can post about various tech related topics. Once a user makes an account they can make a post which can subsqeuntly be commented by another user with an account.
 
 ## Installation Guide
 
